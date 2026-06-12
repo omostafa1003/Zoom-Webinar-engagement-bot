@@ -7,6 +7,7 @@
                     "test":  "echo \"Error: no test specified\" \u0026\u0026 exit 1",
                     "join":  "node joinMeeting.js",
                     "start-messaging":  "node sendScheduledMessages.js",
+                    "csv-messaging":  "node sendMessagesFromCSV.js",
                     "raise-hand":  "node raiseHand.js",
                     "change-name":  "node changeName.js",
                     "record-rename":  "node recordRename.js"
