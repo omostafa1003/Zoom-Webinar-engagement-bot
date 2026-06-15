@@ -11,7 +11,7 @@ function timeOffsetToSeconds(timeStr) {
 }
 
 function parseJSONMessages() {
-  const filePath = path.join(__dirname, 'Test_JSONChat.json');
+  const filePath = path.join(__dirname, 'chat-schedule.json');
   if (!fs.existsSync(filePath)) return [];
   let content = fs.readFileSync(filePath, 'utf8');
   if (content.charCodeAt(0) === 0xFEFF) content = content.slice(1);
@@ -19,7 +19,7 @@ function parseJSONMessages() {
   try {
     data = JSON.parse(content);
   } catch (e) {
-    console.error('Invalid JSON in Test_JSONChat.json:', e.message);
+    console.error('Invalid JSON in chat-schedule.json:', e.message);
     return [];
   }
   if (!Array.isArray(data)) return [];
@@ -320,9 +320,9 @@ async function sendMessage(page, msg) {
       console.log('Loaded', messages.length, 'messages from messagelist.csv as fallback');
     }
   } else {
-    console.log('Loaded', messages.length, 'messages from Test_JSONChat.json');
+    console.log('Loaded', messages.length, 'messages from chat-schedule.json');
   }
-  if (!messages.length) { console.error('No messages found in Test_JSONChat.json or messagelist.csv'); await browser.disconnect(); process.exit(1); }
+  if (!messages.length) { console.error('No messages found in chat-schedule.json or archive/messagelist.csv'); await browser.disconnect(); process.exit(1); }
 
   const participantReady = await ensureParticipantPanelOpen(page);
   if (!participantReady) {

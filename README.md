@@ -16,7 +16,7 @@ npm install
 - `npm run join`
 - `npm run raise-hand`
 - `npm run start-messaging`
-- `npm run csv-messaging`
+- `npm run json-messaging`
 - `npm run change-name`
 
 ## How to use
@@ -74,15 +74,15 @@ The messaging script tries to attach to the existing browser via `browser-ws-end
 
 ### 5) Send chat messages from JSON
 
-Use this script to read a schedule from `Test_JSONChat.json`.
+Use this script to read a schedule from `chat-schedule.json`.
 
 ```bash
-npm run csv-messaging
+npm run json-messaging
 ```
 
-The script now loads `Test_JSONChat.json` by default and falls back to `messagelist.csv` if the JSON file is unavailable.
+The script now loads `chat-schedule.json` by default and falls back to `archive/messagelist.csv` if the JSON file is unavailable.
 
-Timestamps in `Test_JSONChat.json` are treated as offsets from zero; each message is scheduled relative to the start of the script.
+Timestamps in `chat-schedule.json` are treated as offsets from zero; each message is scheduled relative to the start of the script.
 
 ### 6) Change your panelist display name
 
@@ -122,10 +122,10 @@ You can also pass `--ws="YOUR_WS_ENDPOINT"` if you want to attach to a specific 
   - finds the chat editor and sends scheduled messages using keystrokes
   - can also launch a new browser if no existing session is available
 
-- `sendMessagesFromCSV.js`
-  - reads `messagelist.csv`
-  - parses rows with `timeoffset`/`offset` and `message`
-  - sorts entries by offset and sends each message at the scheduled time
+- `sendMessagesFromJSON.js`
+  - reads `chat-schedule.json`
+  - parses rows with `timestamp`, `sender`, and `message`
+  - sorts entries by timestamp and sends each message at the scheduled time
 
 - `changeName.js`
   - connects to the running browser via `browser-ws-endpoint.txt` or `--ws`
@@ -143,4 +143,4 @@ You can also pass `--ws="YOUR_WS_ENDPOINT"` if you want to attach to a specific 
 - Keep `npm run join` running while you use the other scripts.
 - `raiseHand.js`, `sendScheduledMessages.js`, and `changeName.js` attach to the existing browser session through `browser-ws-endpoint.txt`.
 - If the browser closes, re-run `npm run join` to recreate the session endpoint.
-- `npm run csv-messaging` reads `messagelist.csv` from the project folder.
+- `npm run json-messaging` reads `archive/messagelist.csv` only as a fallback.
