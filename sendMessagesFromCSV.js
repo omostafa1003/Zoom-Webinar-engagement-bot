@@ -2,33 +2,38 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 
-function parseCSVLine(line) {
-  const result = [];
-  let current = '';
-  let inQuotes = false;
-  for (let i = 0; i < line.length; i++) {
-    const char = line[i];
-    const next = line[i + 1];
-    if (inQuotes) {
-      if (char === '"' && next === '"') { current += '"'; i++; }
-      else if (char === '"') inQuotes = false;
-      else current += char;
-    } else {
-      if (char === '"') inQuotes = true;
-      else if (char === ',') { result.push(current); current = ''; }
-      else current += char;
-    }
-  }
-  result.push(current);
-  return result;
+function timeOffsetToSeconds(timeStr) {
+  const trimmed = (timeStr || '').toString().trim();
+  const parts = trimmed.split(':').map(x => parseInt(x, 10) || 0);
+  if (parts.length === 3) return parts[0] * 3600 + parts[1] * 60 + parts[2];
+  if (parts.length === 2) return parts[0] * 60 + parts[1];
+  return parseInt(trimmed, 10) || 0;
 }
 
-function normalizeHeader(h) { return h.trim().toLowerCase(); }
-function timeOffsetToSeconds(timeStr) {
-  const parts = timeStr.split(':').map(x => parseInt(x, 10) || 0);
-  if (parts.length === 3) return parts[0]*3600 + parts[1]*60 + parts[2];
-  if (parts.length === 2) return parts[0]*60 + parts[1];
-  return parseInt(timeStr,10) || 0;
+function parseJSONMessages() {
+  const filePath = path.join(__dirname, 'Test_JSONChat.json');
+  if (!fs.existsSync(filePath)) return [];
+  let content = fs.readFileSync(filePath, 'utf8');
+  if (content.charCodeAt(0) === 0xFEFF) content = content.slice(1);
+  let data;
+  try {
+    data = JSON.parse(content);
+  } catch (e) {
+    console.error('Invalid JSON in Test_JSONChat.json:', e.message);
+    return [];
+  }
+  if (!Array.isArray(data)) return [];
+  return data.map(item => {
+    const timestamp = item.timestamp || item.timeoffset || item.offset || '';
+    const sender = (item.sender || item['sender name'] || item['senderName'] || '').toString().trim();
+    const message = (item.message || item.msg || item.text || '').toString().trim();
+    return {
+      timeoffset: timestamp,
+      sender,
+      message,
+      offsetSeconds: timeOffsetToSeconds(timestamp)
+    };
+  }).sort((a, b) => a.offsetSeconds - b.offsetSeconds);
 }
 
 function parseCSV() {
@@ -38,11 +43,11 @@ function parseCSV() {
   if (content.charCodeAt(0) === 0xFEFF) content = content.slice(1);
   const lines = content.replace(/\r\n/g,'\n').replace(/\r/g,'\n').split('\n').filter(l=>l.trim());
   if (lines.length < 2) return [];
-  const headers = parseCSVLine(lines[0]).map(normalizeHeader);
+  const headers = lines[0].split(',').map(h => h.trim().toLowerCase());
   const records = lines.slice(1).map(line => {
-    const cells = parseCSVLine(line);
+    const cells = line.split(',');
     const rec = {};
-    headers.forEach((h,i)=> rec[h] = (cells[i]||'').trim());
+    headers.forEach((h,i) => rec[h] = (cells[i]||'').trim());
     return rec;
   });
   return records.sort((a,b)=> timeOffsetToSeconds(a.timeoffset||a.offset||'0') - timeOffsetToSeconds(b.timeoffset||b.offset||'0'));
@@ -308,9 +313,16 @@ async function sendMessage(page, msg) {
   await page.bringToFront();
   page.on('console', msg=>console.log('PAGE LOG:', msg.text()));
 
-  const messages = parseCSV();
-  if (!messages.length) { console.error('No messages in messagelist.csv'); await browser.disconnect(); process.exit(1); }
-  console.log('Loaded', messages.length, 'messages');
+  let messages = parseJSONMessages();
+  if (!messages.length) {
+    messages = parseCSV();
+    if (messages.length) {
+      console.log('Loaded', messages.length, 'messages from messagelist.csv as fallback');
+    }
+  } else {
+    console.log('Loaded', messages.length, 'messages from Test_JSONChat.json');
+  }
+  if (!messages.length) { console.error('No messages found in Test_JSONChat.json or messagelist.csv'); await browser.disconnect(); process.exit(1); }
 
   const participantReady = await ensureParticipantPanelOpen(page);
   if (!participantReady) {
