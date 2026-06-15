@@ -82,6 +82,8 @@ npm run csv-messaging
 
 The script now loads `Test_JSONChat.json` by default and falls back to `messagelist.csv` if the JSON file is unavailable.
 
+Timestamps in `Test_JSONChat.json` are treated as offsets from zero; each message is scheduled relative to the start of the script.
+
 ### 6) Change your panelist display name
 
 Run this after you have been promoted to panelist and the browser is still attached.

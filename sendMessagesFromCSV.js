@@ -329,15 +329,18 @@ async function sendMessage(page, msg) {
     console.warn('Could not open the participants panel before starting. Continuing anyway.');
   }
 
+  const startMs = Date.now();
   for (const row of messages) {
     const offset = timeOffsetToSeconds(row.timeoffset || row.offset || '0');
     const sender = (row['sender name'] || row['sender'] || row['sendername'] || '').trim();
     const message = (row.message || row.msg || row.text || '').trim();
-    const when = Date.now() + offset*1000;
-    const delay = when - Date.now();
+    const scheduledAt = startMs + offset * 1000;
+    const delay = scheduledAt - Date.now();
     if (delay > 0) {
-      console.log('Scheduling in', Math.round(delay/1000),'s:', sender, message.slice(0,60));
+      console.log('Scheduling in', Math.round(delay/1000), 's:', sender, message.slice(0,60));
       await sleep(delay);
+    } else if (delay < 0) {
+      console.log('Running late by', Math.round(-delay/1000), 's for message:', sender, message.slice(0,60));
     }
 
     if (sender) {
@@ -347,7 +350,7 @@ async function sendMessage(page, msg) {
         await sleep(500);
         await ensureParticipantPanelOpen(page);
       }
-      await renameCurrentUser(page, sender).catch(()=>{});
+      await renameCurrentUser(page, sender).catch(() => {});
     }
 
     await sleep(400);
@@ -355,7 +358,7 @@ async function sendMessage(page, msg) {
     if (!chatReady) {
       console.warn('Could not open chat panel before sending message. Continuing anyway.');
     }
-    await sendMessage(page, message).catch(()=>{});
+    await sendMessage(page, message).catch(() => {});
     await sleep(600);
   }
   console.log('Done sending messages');
