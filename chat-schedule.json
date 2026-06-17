@@ -1,107 +1,4077 @@
 [
   {
-    "timestamp": "00:00:00",
-    "sender": "Nakia Reed",
-    "message": "2m"
+    "timestamp": "00:02:44",
+    "sender": "Nakia Williams",
+    "message": "Wzup everyone"
   },
   {
-    "timestamp": "00:00:02",
-    "sender": "iPhonej",
-    "message": "2 m"
+    "timestamp": "00:03:22",
+    "sender": "Cornelius Gomez",
+    "message": "Cool"
   },
   {
-    "timestamp": "00:00:04",
-    "sender": "claudia",
-    "message": "1 million"
+    "timestamp": "00:03:39",
+    "sender": "Curtis A Anderson",
+    "message": "Cool"
   },
   {
-    "timestamp": "00:00:06",
-    "sender": "Nakia Reed",
-    "message": "😂"
-  },
-  {
-    "timestamp": "00:00:08",
-    "sender": "Nakia Reed",
+    "timestamp": "00:03:49",
+    "sender": "JERMAINE Lewis",
     "message": "1"
   },
   {
-    "timestamp": "00:00:10",
-    "sender": "Edubb",
+    "timestamp": "00:03:52",
+    "sender": "herman Robinson",
     "message": "1"
   },
   {
-    "timestamp": "00:00:12",
-    "sender": "Maira Rodriguez",
+    "timestamp": "00:04:01",
+    "sender": "Cornelius Gomez",
     "message": "1"
   },
   {
-    "timestamp": "00:00:14",
-    "sender": "Maira Rodriguez",
-    "message": "Thank you."
+    "timestamp": "00:04:02",
+    "sender": "Curtis A Anderson",
+    "message": "1"
   },
   {
-    "timestamp": "00:00:16",
+    "timestamp": "00:04:06",
+    "sender": "JERMAINE Lewis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:04:07",
+    "sender": "811_P",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:04:11",
+    "sender": "Sonya Ramirez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:04:29",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:04:38",
+    "sender": "Karine Miller",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:04:47",
+    "sender": "herman Robinson",
+    "message": "Lets go"
+  },
+  {
+    "timestamp": "00:05:03",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:05:05",
+    "sender": "Curtis A Anderson",
+    "message": "A1"
+  },
+  {
+    "timestamp": "00:05:06",
+    "sender": "Nakia Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:05:09",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:05:09",
+    "sender": "Vincent Harris",
+    "message": "A1"
+  },
+  {
+    "timestamp": "00:05:53",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:05:57",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:05:58",
+    "sender": "Vincent Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:03",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:04",
+    "sender": "Kiandra Mitchell",
+    "message": "Will the recording be emailed to us?"
+  },
+  {
+    "timestamp": "00:06:04",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:05",
+    "sender": "Monique Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:08",
+    "sender": "Curtis A Anderson",
+    "message": "Yes 1"
+  },
+  {
+    "timestamp": "00:06:16",
+    "sender": "Cecile",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:29",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:29",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:32",
+    "sender": "Cecile",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:32",
+    "sender": "Vincent Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:33",
+    "sender": "Nakia Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:06:38",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:08:36",
+    "sender": "Nakia Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:08:41",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:08:48",
+    "sender": "William’s iPhone (2)",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:09:53",
+    "sender": "Gisel",
+    "message": "Hi everyone"
+  },
+  {
+    "timestamp": "00:10:01",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:10:02",
+    "sender": "JERMAINE Lewis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:10:07",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:10:16",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:10:16",
+    "sender": "Sonya Ramirez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:10:24",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:11:49",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:11:51",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:11:52",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:11:52",
+    "sender": "811_P",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:11:55",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:11:58",
+    "sender": "Cecile",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:13:20",
+    "sender": "Gisel",
+    "message": "I didn’t get the link I use owe one"
+  },
+  {
+    "timestamp": "00:14:00",
+    "sender": "Kiandra Mitchell",
+    "message": "Will the recording be emailed to us?"
+  },
+  {
+    "timestamp": "00:14:46",
+    "sender": "iPhone749874a",
+    "message": "Will this be recorded bc I’m confused and will have to re watch"
+  },
+  {
+    "timestamp": "00:14:50",
+    "sender": "Curtis A Anderson",
+    "message": "No"
+  },
+  {
+    "timestamp": "00:14:59",
+    "sender": "811_P",
+    "message": "Can u break it down again"
+  },
+  {
+    "timestamp": "00:16:37",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:16:39",
+    "sender": "Rosalind Rodriguez",
+    "message": "2"
+  },
+  {
+    "timestamp": "00:16:41",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:16:41",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:16:41",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:16:47",
+    "sender": "Cecile",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:17:31",
+    "sender": "Joanne Stewart",
+    "message": "5k"
+  },
+  {
+    "timestamp": "00:17:33",
+    "sender": "businessplus",
+    "message": "25k"
+  },
+  {
+    "timestamp": "00:17:33",
+    "sender": "Andrene Carter",
+    "message": "7k"
+  },
+  {
+    "timestamp": "00:17:37",
+    "sender": "Gisel",
+    "message": "10"
+  },
+  {
+    "timestamp": "00:17:39",
+    "sender": "Rosalind Rodriguez",
+    "message": "25"
+  },
+  {
+    "timestamp": "00:17:39",
+    "sender": "Natasha Moore",
+    "message": "2500"
+  },
+  {
+    "timestamp": "00:17:41",
+    "sender": "Gerome",
+    "message": "15k"
+  },
+  {
+    "timestamp": "00:17:42",
+    "sender": "Monique Mitchell",
+    "message": "3-5k"
+  },
+  {
+    "timestamp": "00:17:47",
+    "sender": "iPhone749874a",
+    "message": "15"
+  },
+  {
+    "timestamp": "00:17:52",
+    "sender": "Aaron Davis",
+    "message": "25000"
+  },
+  {
+    "timestamp": "00:18:10",
+    "sender": "William’s iPhone (2)",
+    "message": "10k"
+  },
+  {
+    "timestamp": "00:18:23",
+    "sender": "businessplus",
+    "message": "Good to know!"
+  },
+  {
+    "timestamp": "00:18:50",
+    "sender": "Natasha Moore",
+    "message": "Your very low"
+  },
+  {
+    "timestamp": "00:19:12",
+    "sender": "Andrene Carter",
+    "message": "SO, after selling it for $100k, you actually made ____?"
+  },
+  {
+    "timestamp": "00:20:11",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:20:12",
+    "sender": "Monique Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:20:14",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:20:18",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:20:18",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:20:19",
+    "sender": "Natasha Moore",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:21:39",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:21:53",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:21:55",
     "sender": "iPhone",
     "message": "1"
   },
   {
-    "timestamp": "00:00:18",
-    "sender": "Nakia Reed",
-    "message": "I really do Guy"
-  },
-  {
-    "timestamp": "00:00:20",
-    "sender": "Nakia Reed",
+    "timestamp": "00:21:56",
+    "sender": "William’s iPhone (2)",
     "message": "1"
   },
   {
-    "timestamp": "00:00:22",
-    "sender": "Edubb",
+    "timestamp": "00:21:58",
+    "sender": "businessplus",
     "message": "1"
   },
   {
-    "timestamp": "00:00:24",
-    "sender": "Suzie",
+    "timestamp": "00:21:59",
+    "sender": "Shannon Williams",
     "message": "1"
   },
   {
-    "timestamp": "00:00:26",
-    "sender": "Maira Rodriguez",
-    "message": "Move forward.  Yes"
-  },
-  {
-    "timestamp": "00:00:28",
-    "sender": "Tony Alonzo",
-    "message": "I failed a couple of times already"
-  },
-  {
-    "timestamp": "00:00:30",
-    "sender": "Suzie",
+    "timestamp": "00:22:01",
+    "sender": "Renee",
     "message": "1"
   },
   {
-    "timestamp": "00:00:32",
-    "sender": "Nakia Reed",
+    "timestamp": "00:22:01",
+    "sender": "Gisel",
     "message": "1"
   },
   {
-    "timestamp": "00:00:34",
-    "sender": "Edubb",
+    "timestamp": "00:22:01",
+    "sender": "Jared Wright",
     "message": "1"
   },
   {
-    "timestamp": "00:00:36",
-    "sender": "Tony Alonzo",
+    "timestamp": "00:22:02",
+    "sender": "Curtis A Anderson",
     "message": "1"
   },
   {
-    "timestamp": "00:00:38",
-    "sender": "Ronald Williams",
+    "timestamp": "00:22:05",
+    "sender": "Jacqueline",
     "message": "1"
   },
   {
-    "timestamp": "00:00:40",
-    "sender": "Maira Rodriguez",
+    "timestamp": "00:22:06",
+    "sender": "Aaron Davis",
     "message": "1"
+  },
+  {
+    "timestamp": "00:22:07",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:25:12",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:25:19",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:26:13",
+    "sender": "herman Robinson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:26:15",
+    "sender": "Jason Nguyen",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:26:16",
+    "sender": "Aaron Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:26:17",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:26:19",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:26:19",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:26:19",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:26:31",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:27:18",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:27:27",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:27:27",
+    "sender": "Natasha Moore",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "00:27:31",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:27:56",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:27:59",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:00",
+    "sender": "herman Robinson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:00",
+    "sender": "Izabel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:00",
+    "sender": "Jason Nguyen",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:03",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:08",
+    "sender": "Jacqueline",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:17",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:21",
+    "sender": "Aaron Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:21",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:22",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:23",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:24",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:24",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:27",
+    "sender": "Andrene Carter",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:31",
+    "sender": "Jacqueline",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:28:50",
+    "sender": "Izabel",
+    "message": "Will you teach us exactly (every) thing we need to check for before buy a property? I’m afraid I might miss something because it wasn’t clarified"
+  },
+  {
+    "timestamp": "00:29:36",
+    "sender": "herman Robinson",
+    "message": "How will you know the costs of step 1?"
+  },
+  {
+    "timestamp": "00:30:02",
+    "sender": "Gisel",
+    "message": "Title report states?"
+  },
+  {
+    "timestamp": "00:30:23",
+    "sender": "Natasha Moore",
+    "message": "When do you do those title searches?"
+  },
+  {
+    "timestamp": "00:30:59",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:31:00",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:31:00",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:31:03",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:31:04",
+    "sender": "Natasha Moore",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:31:05",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:31:10",
+    "sender": "Gisel",
+    "message": "Can say again"
+  },
+  {
+    "timestamp": "00:31:15",
+    "sender": "Jessica",
+    "message": "Do you bid online?"
+  },
+  {
+    "timestamp": "00:31:41",
+    "sender": "Travis",
+    "message": "What is max escrow to expect"
+  },
+  {
+    "timestamp": "00:31:46",
+    "sender": "Darryl Ivory",
+    "message": "PROOF OF GUY PURCHASING A PIECE OF LAND FOR 4K AND FLIPPING IT FOR 48K FROM A TAX SALE CHAT 🔥"
+  },
+  {
+    "timestamp": "00:31:52",
+    "sender": "Gisel",
+    "message": "Can u explain again please"
+  },
+  {
+    "timestamp": "00:32:44",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:32:44",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:32:47",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:32:50",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:32:54",
+    "sender": "Gisel",
+    "message": "Thank you"
+  },
+  {
+    "timestamp": "00:33:02",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:02",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:03",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:05",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:07",
+    "sender": "811_P",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:07",
+    "sender": "businessplus",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:07",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:08",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:08",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:09",
+    "sender": "Gerome",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:09",
+    "sender": "Vincent Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:10",
+    "sender": "Dori Adams Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:11",
+    "sender": "Izabel",
+    "message": "Will you ever open up your 75 Again ?"
+  },
+  {
+    "timestamp": "00:33:12",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:14",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:19",
+    "sender": "Cheryl",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:22",
+    "sender": "iPhone",
+    "message": "2"
+  },
+  {
+    "timestamp": "00:33:24",
+    "sender": "Travis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:33:51",
+    "sender": "Jared Wright",
+    "message": "That’s that property"
+  },
+  {
+    "timestamp": "00:34:14",
+    "sender": "Jared Wright",
+    "message": "It doesn’t look like there was any value increase"
+  },
+  {
+    "timestamp": "00:34:20",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:24",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:27",
+    "sender": "Cheryl",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:29",
+    "sender": "Jessica",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "00:34:30",
+    "sender": "Curtis A Anderson",
+    "message": "I'm on disability and wondering I can I get started."
+  },
+  {
+    "timestamp": "00:34:42",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:42",
+    "sender": "Hanami",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:43",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:45",
+    "sender": "Aaron Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:45",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:45",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:46",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:47",
+    "sender": "Jessica",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:48",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:50",
+    "sender": "Curtis A Anderson",
+    "message": "How? 1"
+  },
+  {
+    "timestamp": "00:34:50",
+    "sender": "Cheryl",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:50",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:34:50",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:35:21",
+    "sender": "businessplus",
+    "message": "Thank you Youre a great instructor"
+  },
+  {
+    "timestamp": "00:35:32",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:35:34",
+    "sender": "herman Robinson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:35:34",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:35:36",
+    "sender": "Hanami",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:35:39",
+    "sender": "businessplus",
+    "message": "Screenshot"
+  },
+  {
+    "timestamp": "00:35:39",
+    "sender": "Vincent Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:35:42",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:35:52",
+    "sender": "Curtis A Anderson",
+    "message": "What was the 2nd sight"
+  },
+  {
+    "timestamp": "00:36:01",
+    "sender": "Joanne Stewart",
+    "message": "My credit bad and I have no capital $$ what’s the min amount of money I will need to get a decent property?"
+  },
+  {
+    "timestamp": "00:37:50",
+    "sender": "Izabel",
+    "message": "Was it strategic the pot of land that you bought? Perhaps  it near a high traffic area?"
+  },
+  {
+    "timestamp": "00:38:32",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:34",
+    "sender": "businessplus",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:35",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:37",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:37",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:39",
+    "sender": "Izabel",
+    "message": "Is that info provided in this class upcoming?"
+  },
+  {
+    "timestamp": "00:38:40",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:40",
+    "sender": "Vincent Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:41",
+    "sender": "Michelle Jackson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:44",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:38:46",
+    "sender": "Izabel",
+    "message": "Yay"
+  },
+  {
+    "timestamp": "00:38:49",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:39",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:40",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:42",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:43",
+    "sender": "businessplus",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:45",
+    "sender": "811_P",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:46",
+    "sender": "Lisa Mitchell",
+    "message": "Absolutely"
+  },
+  {
+    "timestamp": "00:40:47",
+    "sender": "Izabel",
+    "message": "That’s awesome"
+  },
+  {
+    "timestamp": "00:40:47",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:48",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:48",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:49",
+    "sender": "monique",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:50",
+    "sender": "Jacqueline",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:51",
+    "sender": "Vincent Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:40:57",
+    "sender": "Zoom user",
+    "message": "Will this be available for replay?"
+  },
+  {
+    "timestamp": "00:40:58",
+    "sender": "Gisel",
+    "message": "You brought land for how much??"
+  },
+  {
+    "timestamp": "00:41:32",
+    "sender": "Gisel",
+    "message": "Thank u"
+  },
+  {
+    "timestamp": "00:41:38",
+    "sender": "Darryl Ivory",
+    "message": "PROOF"
+  },
+  {
+    "timestamp": "00:41:44",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:41:45",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:41:46",
+    "sender": "Bob Walker",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:41:47",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:41:47",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:42:03",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:42:04",
+    "sender": "Curtis A Anderson",
+    "message": "Grant Cardone"
+  },
+  {
+    "timestamp": "00:42:04",
+    "sender": "Vincent Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:42:05",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:43:11",
+    "sender": "Curtis A Anderson",
+    "message": "Got it"
+  },
+  {
+    "timestamp": "00:43:47",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:43:48",
+    "sender": "Jessica",
+    "message": "Oversold"
+  },
+  {
+    "timestamp": "00:43:48",
+    "sender": "Izabel",
+    "message": "Almost did that one time"
+  },
+  {
+    "timestamp": "00:43:53",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:43:54",
+    "sender": "Jared Wright",
+    "message": "👏🏾1"
+  },
+  {
+    "timestamp": "00:43:54",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:43:55",
+    "sender": "Andrene Carter",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:43:55",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:43:57",
+    "sender": "Aaron Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:43:58",
+    "sender": "Zoom user",
+    "message": "The reason why I asked if this will be available for replay is because you’re giving up so many jewels."
+  },
+  {
+    "timestamp": "00:43:58",
+    "sender": "Jessica",
+    "message": "Overstood"
+  },
+  {
+    "timestamp": "00:43:59",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:44:01",
+    "sender": "Michelle Jackson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:44:02",
+    "sender": "Vincent Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:44:03",
+    "sender": "iPhone ree",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:44:05",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:44:06",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:44:10",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:44:16",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:44:21",
+    "sender": "Andrene Carter",
+    "message": "13 years ago that was me"
+  },
+  {
+    "timestamp": "00:44:52",
+    "sender": "Jessica",
+    "message": "That was me and it was a bad fall out over 4,000 dollars"
+  },
+  {
+    "timestamp": "00:45:43",
+    "sender": "Jared Wright",
+    "message": "Yeah!"
+  },
+  {
+    "timestamp": "00:45:48",
+    "sender": "Joanne Stewart",
+    "message": "If you had to start woth bad credit and not much credit where will you start  to get to where you at now"
+  },
+  {
+    "timestamp": "00:45:50",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:45:50",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:45:51",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:45:52",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:45:52",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:45:58",
+    "sender": "Michelle Jackson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:46:00",
+    "sender": "Andrene Carter",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:46:02",
+    "sender": "Izabel",
+    "message": "Scary because some people leave the country and or don’t mind going to prison"
+  },
+  {
+    "timestamp": "00:46:13",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:46:44",
+    "sender": "Iknowrealty",
+    "message": "https://www.volusia.realtaxdeed.com"
+  },
+  {
+    "timestamp": "00:48:28",
+    "sender": "Theresa Martin",
+    "message": "what about buying OTC properties"
+  },
+  {
+    "timestamp": "00:48:58",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:48:58",
+    "sender": "Jared Wright",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "00:49:00",
+    "sender": "businessplus",
+    "message": "yes"
+  },
+  {
+    "timestamp": "00:49:01",
+    "sender": "herman Robinson",
+    "message": "yes"
+  },
+  {
+    "timestamp": "00:49:01",
+    "sender": "Theresa Martin",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "00:49:01",
+    "sender": "811_P",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "00:49:02",
+    "sender": "Lisa Mitchell",
+    "message": "yes"
+  },
+  {
+    "timestamp": "00:49:04",
+    "sender": "Tenita",
+    "message": "yes please"
+  },
+  {
+    "timestamp": "00:49:04",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:49:05",
+    "sender": "AJ Nelson",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "00:49:18",
+    "sender": "iPhone ree",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "00:49:21",
+    "sender": "Gisel",
+    "message": "What’s otc properties?"
+  },
+  {
+    "timestamp": "00:49:47",
+    "sender": "AJ Nelson",
+    "message": "Damn, I heard that otc sales were the way !!!"
+  },
+  {
+    "timestamp": "00:50:00",
+    "sender": "Michelle Jackson",
+    "message": "Should I by Mitty unit instead of a single family house"
+  },
+  {
+    "timestamp": "00:50:40",
+    "sender": "Jared Wright",
+    "message": "💯"
+  },
+  {
+    "timestamp": "00:51:34",
+    "sender": "Izabel",
+    "message": "This website has a membership but very worth it and cheap (LandGlide)"
+  },
+  {
+    "timestamp": "00:51:44",
+    "sender": "Gisel",
+    "message": "Where you’re searching is real live?"
+  },
+  {
+    "timestamp": "00:51:52",
+    "sender": "Bob Walker",
+    "message": "Is LandGlide better than ReGrid?"
+  },
+  {
+    "timestamp": "00:51:56",
+    "sender": "Michelle Jackson",
+    "message": "No"
+  },
+  {
+    "timestamp": "00:52:13",
+    "sender": "Jessica",
+    "message": "I was told that the judicial sales are better"
+  },
+  {
+    "timestamp": "00:52:17",
+    "sender": "Hanami",
+    "message": "How is it a piece of crap??"
+  },
+  {
+    "timestamp": "00:52:57",
+    "sender": "Tenita",
+    "message": "yes please"
+  },
+  {
+    "timestamp": "00:52:59",
+    "sender": "businessplus",
+    "message": "yes"
+  },
+  {
+    "timestamp": "00:53:07",
+    "sender": "AJ Nelson",
+    "message": "Yeah tell us"
+  },
+  {
+    "timestamp": "00:53:59",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:53:59",
+    "sender": "businessplus",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:00",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:03",
+    "sender": "AJ Nelson",
+    "message": "Thx u for this knowledge"
+  },
+  {
+    "timestamp": "00:54:03",
+    "sender": "herman Robinson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:03",
+    "sender": "R Harris",
+    "message": "What do you think about doing the Brrrr method"
+  },
+  {
+    "timestamp": "00:54:04",
+    "sender": "Joanne Stewart",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:05",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:05",
+    "sender": "Andrene Carter",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:06",
+    "sender": "Aaron Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:07",
+    "sender": "Roberta Scott",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:07",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:07",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:07",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:08",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:09",
+    "sender": "Jessica",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:10",
+    "sender": "Lisa Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:11",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:11",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:12",
+    "sender": "Michelle Jackson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:12",
+    "sender": "Jessica’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:16",
+    "sender": "Karine Miller",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:18",
+    "sender": "Keith",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:22",
+    "sender": "Robert’s iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:54:38",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "00:55:13",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:55:16",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:55:24",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:55:24",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "00:55:24",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "00:56:20",
+    "sender": "Izabel",
+    "message": "I have a question what’s inside the \n(Ai notes) and also (tax sale for $400) ?"
+  },
+  {
+    "timestamp": "00:57:19",
+    "sender": "Jessica",
+    "message": "Like Jamaican when you said go do the judicial sale 😂"
+  },
+  {
+    "timestamp": "00:57:24",
+    "sender": "AJ Nelson",
+    "message": "So you only do deeds and never tax liens ? Could you please explain why ?"
+  },
+  {
+    "timestamp": "00:57:53",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "00:58:21",
+    "sender": "Jared Wright",
+    "message": "Got the VIP"
+  },
+  {
+    "timestamp": "00:58:31",
+    "sender": "Joanne Stewart",
+    "message": "Do we need to have a LLC set up and ready before we start getting houses"
+  },
+  {
+    "timestamp": "00:58:34",
+    "sender": "businessplus",
+    "message": "Is this 5 day masterclass starting next Monday?"
+  },
+  {
+    "timestamp": "00:59:32",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "00:59:41",
+    "sender": "AJ Nelson",
+    "message": "Who were your mentors ?"
+  },
+  {
+    "timestamp": "01:00:16",
+    "sender": "Hanami",
+    "message": "You may have said this already but how far out should we look from your primary residence? Like if you live in Charlotte NC, what should be my radius to look for properties?"
+  },
+  {
+    "timestamp": "01:00:29",
+    "sender": "Jared Wright",
+    "message": "I’ll build you an AI that posts for you if you want on Social Media, all you have to do is text it."
+  },
+  {
+    "timestamp": "01:01:02",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:01:43",
+    "sender": "AJ Nelson",
+    "message": "My condolences"
+  },
+  {
+    "timestamp": "01:02:16",
+    "sender": "Gisel",
+    "message": "Do you need the ebooks for class?"
+  },
+  {
+    "timestamp": "01:02:19",
+    "sender": "Jared Wright",
+    "message": "I’m in the VIP"
+  },
+  {
+    "timestamp": "01:02:30",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:02:36",
+    "sender": "Izabel",
+    "message": "For some reason I’m trying to press the ai notes and the tax sale with the vip but can’t"
+  },
+  {
+    "timestamp": "01:03:00",
+    "sender": "AJ Nelson",
+    "message": "Don't let anyone hold u back, even ur loved ones !! Right on !!"
+  },
+  {
+    "timestamp": "01:03:09",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:03:15",
+    "sender": "Tenita",
+    "message": "yes!"
+  },
+  {
+    "timestamp": "01:03:16",
+    "sender": "Lisa Mitchell",
+    "message": "yes"
+  },
+  {
+    "timestamp": "01:03:16",
+    "sender": "Joanne Stewart",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:03:18",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:19",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:21",
+    "sender": "AJ Nelson",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:03:22",
+    "sender": "Jacqueline",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:03:24",
+    "sender": "Jennifer Flores",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:03:24",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:28",
+    "sender": "Roberta Scott",
+    "message": "Yes please"
+  },
+  {
+    "timestamp": "01:03:28",
+    "sender": "Theresa Martin",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:03:30",
+    "sender": "G7 Mitchell",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:03:30",
+    "sender": "Karine Miller",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:03:30",
+    "sender": "Bob Walker",
+    "message": "That's the reason I get out of bed in the morning .."
+  },
+  {
+    "timestamp": "01:03:31",
+    "sender": "Cornelius Gomez",
+    "message": "yes"
+  },
+  {
+    "timestamp": "01:03:48",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:03:57",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:57",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:57",
+    "sender": "Izabel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:58",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:59",
+    "sender": "Joanne Stewart",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:59",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:59",
+    "sender": "Jacqueline",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:03:59",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:01",
+    "sender": "Aaron Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:02",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:02",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:02",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:02",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:03",
+    "sender": "Aretha",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:04",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:04",
+    "sender": "Curtis A Anderson",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:04:05",
+    "sender": "Andrene Carter",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:05",
+    "sender": "Natasha Moore",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:05",
+    "sender": "businessplus",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:07",
+    "sender": "Lisa Mitchell",
+    "message": "Thanks a million!"
+  },
+  {
+    "timestamp": "01:04:09",
+    "sender": "iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:09",
+    "sender": "Valarie Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:10",
+    "sender": "G7 Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:13",
+    "sender": "Ruthie’s iPad",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:04:17",
+    "sender": "Gisel",
+    "message": "How do you get this free?"
+  },
+  {
+    "timestamp": "01:04:29",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:04:38",
+    "sender": "Jared Wright",
+    "message": "Where the world’s going, invest in yourself."
+  },
+  {
+    "timestamp": "01:05:28",
+    "sender": "AJ Nelson",
+    "message": "Wht is ur opinion on surplus funds ?"
+  },
+  {
+    "timestamp": "01:06:20",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:06:26",
+    "sender": "Cornelius Gomez",
+    "message": "yes"
+  },
+  {
+    "timestamp": "01:06:28",
+    "sender": "Theresa Martin",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:06:29",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:35",
+    "sender": "AJ Nelson",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:06:37",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:38",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:39",
+    "sender": "Lisa Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:40",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:40",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:40",
+    "sender": "Jessica Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:40",
+    "sender": "G7 Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:40",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:43",
+    "sender": "Helene Young",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:52",
+    "sender": "iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:06:52",
+    "sender": "Karine Miller",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:07:11",
+    "sender": "William Campbell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:07:17",
+    "sender": "Valarie Davis",
+    "message": "Another bonus"
+  },
+  {
+    "timestamp": "01:08:12",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:09:07",
+    "sender": "Samsung SM-S931U",
+    "message": "How much is your ticket?"
+  },
+  {
+    "timestamp": "01:09:26",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:09:30",
+    "sender": "Samsung SM-S931U",
+    "message": "I need to break generational curse.."
+  },
+  {
+    "timestamp": "01:10:01",
+    "sender": "Curtis A Anderson",
+    "message": "I'm in"
+  },
+  {
+    "timestamp": "01:10:13",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:13",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:13",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:15",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:16",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:16",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:17",
+    "sender": "Ronnie Clark",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:20",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:21",
+    "sender": "Andrene Carter",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:22",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:22",
+    "sender": "Ruthie’s iPad",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:23",
+    "sender": "Joanne Stewart",
+    "message": "1 hallelujah"
+  },
+  {
+    "timestamp": "01:10:26",
+    "sender": "iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:26",
+    "sender": "Lisa Mitchell",
+    "message": "1-Awesome!"
+  },
+  {
+    "timestamp": "01:10:28",
+    "sender": "Valarie Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:30",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:38",
+    "sender": "iPhone",
+    "message": "Yes please"
+  },
+  {
+    "timestamp": "01:10:41",
+    "sender": "G7 Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:41",
+    "sender": "Karine Miller",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:10:41",
+    "sender": "Jared Wright",
+    "message": "1 - I appreciate that"
+  },
+  {
+    "timestamp": "01:10:46",
+    "sender": "Gisel",
+    "message": "This is great at what time?"
+  },
+  {
+    "timestamp": "01:10:51",
+    "sender": "Natasha Moore",
+    "message": "I can't afford to get the 197 platinum package 😪 to win the chance for MacBook 😫"
+  },
+  {
+    "timestamp": "01:10:52",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:10:59",
+    "sender": "Natasha Moore",
+    "message": "I got the 67"
+  },
+  {
+    "timestamp": "01:11:11",
+    "sender": "Jared Wright",
+    "message": "I can’t unmute"
+  },
+  {
+    "timestamp": "01:11:13",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:11:18",
+    "sender": "Darryl Ivory",
+    "message": "TRY NOW"
+  },
+  {
+    "timestamp": "01:11:24",
+    "sender": "Curtis A Anderson",
+    "message": "How much is the VIP?"
+  },
+  {
+    "timestamp": "01:11:52",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:12:20",
+    "sender": "Natasha Moore",
+    "message": "I've tried to buy over the counter"
+  },
+  {
+    "timestamp": "01:12:49",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:12:58",
+    "sender": "Gisel",
+    "message": "What time is this Sunday?"
+  },
+  {
+    "timestamp": "01:13:12",
+    "sender": "Gisel",
+    "message": "Thank you"
+  },
+  {
+    "timestamp": "01:13:23",
+    "sender": "Natasha Moore",
+    "message": "My condolences to your family"
+  },
+  {
+    "timestamp": "01:13:36",
+    "sender": "Marsha Phillips",
+    "message": "I’m going on a cruise next week. Will this class be offered at a later date?"
+  },
+  {
+    "timestamp": "01:13:52",
+    "sender": "Trena’s iPhone",
+    "message": "Want to learn about purchasing at auctions correctly."
+  },
+  {
+    "timestamp": "01:14:17",
+    "sender": "Natasha Moore",
+    "message": "Will this work if you filed bankruptcy"
+  },
+  {
+    "timestamp": "01:14:23",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:14:23",
+    "sender": "Tenita",
+    "message": "yes"
+  },
+  {
+    "timestamp": "01:14:23",
+    "sender": "Cornelius Gomez",
+    "message": "yes"
+  },
+  {
+    "timestamp": "01:14:24",
+    "sender": "Curtis A Anderson",
+    "message": "Absolutely 1"
+  },
+  {
+    "timestamp": "01:14:25",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:14:32",
+    "sender": "Jacqueline",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:14:33",
+    "sender": "G7 Mitchell",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:14:33",
+    "sender": "Jared Wright",
+    "message": "Congrats"
+  },
+  {
+    "timestamp": "01:14:37",
+    "sender": "Ruthie’s iPad",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:14:39",
+    "sender": "Natasha Moore",
+    "message": "Yippee congratulations"
+  },
+  {
+    "timestamp": "01:14:46",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:14:46",
+    "sender": "Samsung SM-S931U",
+    "message": "I like your vibes"
+  },
+  {
+    "timestamp": "01:14:48",
+    "sender": "Tenita",
+    "message": "yes"
+  },
+  {
+    "timestamp": "01:14:49",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:14:50",
+    "sender": "Gisel",
+    "message": "Congratulations and good bless your family"
+  },
+  {
+    "timestamp": "01:14:51",
+    "sender": "Joanne Stewart",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:14:51",
+    "sender": "Cornelius Gomez",
+    "message": "yes"
+  },
+  {
+    "timestamp": "01:14:51",
+    "sender": "Valarie Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:14:54",
+    "sender": "AJ Nelson",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:14:56",
+    "sender": "Izabel",
+    "message": "After the classes do we still have access to Skool and the books we bought or does it end ?"
+  },
+  {
+    "timestamp": "01:14:58",
+    "sender": "iPhone (77)Robin",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:15:11",
+    "sender": "Shannon Williams",
+    "message": "Yes let's get it"
+  },
+  {
+    "timestamp": "01:15:23",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:25",
+    "sender": "Jared Wright",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:25",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:26",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:26",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:26",
+    "sender": "Natasha Moore",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:27",
+    "sender": "Samsung SM-S931U",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:28",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:28",
+    "sender": "Shannon Williams",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:28",
+    "sender": "Ruthie’s iPad",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:29",
+    "sender": "Joanne Stewart",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:15:29",
+    "sender": "Jessica Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:31",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:33",
+    "sender": "Andrene Carter",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:33",
+    "sender": "Lisa Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:35",
+    "sender": "Jacqueline",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:37",
+    "sender": "G7 Mitchell",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:15:38",
+    "sender": "Terri Rodriguez",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:15:40",
+    "sender": "Theresa Martin",
+    "message": "¹"
+  },
+  {
+    "timestamp": "01:15:41",
+    "sender": "Karine Miller",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:42",
+    "sender": "Donna Harris",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:43",
+    "sender": "Rosalind Rodriguez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:15:45",
+    "sender": "Pst. Wale Diaz",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:16:05",
+    "sender": "Izabel",
+    "message": "Do we lose the access to the Ai  notes and the tax for 400, after the classes or dose it end after the 30 days ?"
+  },
+  {
+    "timestamp": "01:16:11",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:16:11",
+    "sender": "Terri Rodriguez",
+    "message": "Wanna learn it all"
+  },
+  {
+    "timestamp": "01:16:36",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:16:45",
+    "sender": "Natasha Moore",
+    "message": "Please repeat those classes for my calendar"
+  },
+  {
+    "timestamp": "01:16:51",
+    "sender": "Curtis A Anderson",
+    "message": "How much is VIP again?"
+  },
+  {
+    "timestamp": "01:16:53",
+    "sender": "Gisel",
+    "message": "Want to learn everything your bless soul help us minority level up"
+  },
+  {
+    "timestamp": "01:17:24",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:17:27",
+    "sender": "businessplus",
+    "message": "When will we get access to skool? Did you say skool goes with this for 30 days? Is that where the 5k course is? Or is the 5k course within the 5 day course next week?"
+  },
+  {
+    "timestamp": "01:17:39",
+    "sender": "Bisma Allen",
+    "message": "I have zero credit score as I just recently moved to the states. Can I still get into tax deed sales?"
+  },
+  {
+    "timestamp": "01:17:45",
+    "sender": "Gisel",
+    "message": "When do you send the $5000 course.?"
+  },
+  {
+    "timestamp": "01:17:53",
+    "sender": "Curtis A Anderson",
+    "message": "Disability"
+  },
+  {
+    "timestamp": "01:17:54",
+    "sender": "Shannon Williams",
+    "message": "It's comprehension"
+  },
+  {
+    "timestamp": "01:18:15",
+    "sender": "Samsung SM-S931U",
+    "message": "My biggest frustration that I work 9/5 and can't travel for a long period of time.."
+  },
+  {
+    "timestamp": "01:18:39",
+    "sender": "Curtis A Anderson",
+    "message": "Disability money is not much"
+  },
+  {
+    "timestamp": "01:18:45",
+    "sender": "Izabel",
+    "message": "Do we lose the access to the (Ai notes) and the (tax sale for $400), after the classes or dose it end after the 30 days ?"
+  },
+  {
+    "timestamp": "01:18:57",
+    "sender": "Rondale-La’Shawn Mason",
+    "message": "I’m a Lending Broker with access to 100’s of Private money Lenders. If you can’t get financing with a Bank or other Financial Institution, I’d love to be a resource for anyone who needs it. Contact me, Rondale-La’Shawn Mason at N-M Private Trust Capital, (503)449-8329."
+  },
+  {
+    "timestamp": "01:19:02",
+    "sender": "Curtis A Anderson",
+    "message": "Got you"
+  },
+  {
+    "timestamp": "01:19:17",
+    "sender": "Lisa Mitchell",
+    "message": "Work 9-5 at the most I can make. No promotion opportunity."
+  },
+  {
+    "timestamp": "01:19:23",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:19:24",
+    "sender": "Lisa Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:19:28",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:19:30",
+    "sender": "Cliff",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:19:42",
+    "sender": "Curtis A Anderson",
+    "message": "That's how I ended up on disability"
+  },
+  {
+    "timestamp": "01:19:47",
+    "sender": "Samsung SM-S931U",
+    "message": "Decade"
+  },
+  {
+    "timestamp": "01:19:51",
+    "sender": "Lisa Mitchell",
+    "message": "1-2 yrs"
+  },
+  {
+    "timestamp": "01:19:53",
+    "sender": "Cliff",
+    "message": "6"
+  },
+  {
+    "timestamp": "01:19:54",
+    "sender": "Joanne Stewart",
+    "message": "Since I’ve been an adult"
+  },
+  {
+    "timestamp": "01:19:55",
+    "sender": "Andrene Carter",
+    "message": "Not making enough- all my life to this point"
+  },
+  {
+    "timestamp": "01:20:09",
+    "sender": "Donna Harris",
+    "message": "5"
+  },
+  {
+    "timestamp": "01:20:39",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:20:42",
+    "sender": "Theresa Martin",
+    "message": "For me it has been 8 to 10 years"
+  },
+  {
+    "timestamp": "01:20:54",
+    "sender": "AJ Nelson",
+    "message": "Exactly !! The naysayers !!"
+  },
+  {
+    "timestamp": "01:21:06",
+    "sender": "Samsung SM-S931U",
+    "message": "In my area there's no way you can buy a house for $20K....Minimum $125K.."
+  },
+  {
+    "timestamp": "01:21:08",
+    "sender": "Curtis A Anderson",
+    "message": "How much is VIP again"
+  },
+  {
+    "timestamp": "01:21:23",
+    "sender": "Natasha Moore",
+    "message": "197"
+  },
+  {
+    "timestamp": "01:21:35",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:21:35",
+    "sender": "Shannon Williams",
+    "message": "I'd pay 67 bucks"
+  },
+  {
+    "timestamp": "01:22:16",
+    "sender": "Curtis A Anderson",
+    "message": "Pice of crap"
+  },
+  {
+    "timestamp": "01:22:28",
+    "sender": "Helena Allen",
+    "message": "Hello…. I purchased a ticket on  yesterday. I’m on the west coast… on a couple of days 3:00pm will be hard for me to attend. Will there be re-plays for later on that I can watch?"
+  },
+  {
+    "timestamp": "01:22:58",
+    "sender": "Iknowrealty",
+    "message": "https://www.youtube.com/watch?v=l1gXZu1i8TM"
+  },
+  {
+    "timestamp": "01:23:15",
+    "sender": "Samsung SM-S931U",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:23:17",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:23:18",
+    "sender": "Cliff",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:23:18",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:23:18",
+    "sender": "Natasha Moore",
+    "message": "No"
+  },
+  {
+    "timestamp": "01:23:20",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:23:20",
+    "sender": "Izabel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:23:23",
+    "sender": "Ruthie’s iPad",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:23:27",
+    "sender": "Shannon Williams",
+    "message": "No no"
+  },
+  {
+    "timestamp": "01:23:29",
+    "sender": "Samsung SM-S931U",
+    "message": "Yes, read his book"
+  },
+  {
+    "timestamp": "01:23:30",
+    "sender": "Izabel",
+    "message": "I want a nation of works"
+  },
+  {
+    "timestamp": "01:23:32",
+    "sender": "Debra Morris",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:23:36",
+    "sender": "Darryl Ivory",
+    "message": "Replays will be available 30 minutes after each class"
+  },
+  {
+    "timestamp": "01:24:11",
+    "sender": "Shannon Williams",
+    "message": "Send me link please"
+  },
+  {
+    "timestamp": "01:24:33",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:24:56",
+    "sender": "Debra Morris",
+    "message": "Want to know how to build wealth and legacy for me and family I need to be a builder for family"
+  },
+  {
+    "timestamp": "01:25:14",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:25:30",
+    "sender": "Gisel",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:25:38",
+    "sender": "Debra Morris",
+    "message": "Yes I have"
+  },
+  {
+    "timestamp": "01:25:39",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:25:44",
+    "sender": "Dieuvens Moore",
+    "message": "Oh yes"
+  },
+  {
+    "timestamp": "01:25:55",
+    "sender": "Gisel",
+    "message": "Yes, I M a single mom"
+  },
+  {
+    "timestamp": "01:26:14",
+    "sender": "Izabel",
+    "message": "Yes ,boots with wholes when I was 5 in cold ny winter"
+  },
+  {
+    "timestamp": "01:26:36",
+    "sender": "Curtis A Anderson",
+    "message": "How much is VIP again"
+  },
+  {
+    "timestamp": "01:26:48",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:27:00",
+    "sender": "Cornelius Gomez",
+    "message": "Please show that Earl Nightingale site"
+  },
+  {
+    "timestamp": "01:27:19",
+    "sender": "Iknowrealty",
+    "message": "https://www.youtube.com/watch?v=l1gXZu1i8TM"
+  },
+  {
+    "timestamp": "01:27:25",
+    "sender": "Bisma Allen",
+    "message": "I’m so sorry I’m going to have to repeat my question again: as someone with zero credit since I just moved to the states, can I still get into tax deed sales?"
+  },
+  {
+    "timestamp": "01:27:27",
+    "sender": "Curtis A Anderson",
+    "message": "Lived in the Bronks in the early 70s"
+  },
+  {
+    "timestamp": "01:27:29",
+    "sender": "Cornelius Gomez",
+    "message": "Thank you"
+  },
+  {
+    "timestamp": "01:27:29",
+    "sender": "Izabel",
+    "message": "Got my ticket very excited"
+  },
+  {
+    "timestamp": "01:27:39",
+    "sender": "Natasha Moore",
+    "message": "Buying upset bids smh"
+  },
+  {
+    "timestamp": "01:27:45",
+    "sender": "Andrene Carter",
+    "message": "Online store \nBob Diamond program"
+  },
+  {
+    "timestamp": "01:28:22",
+    "sender": "Karine Miller",
+    "message": "Amazon  \nMBA"
+  },
+  {
+    "timestamp": "01:28:45",
+    "sender": "AJ Nelson",
+    "message": "Facts"
+  },
+  {
+    "timestamp": "01:28:59",
+    "sender": "Bisma Allen",
+    "message": "Oh I’m a permanent resident don’t worry lol"
+  },
+  {
+    "timestamp": "01:29:27",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:29:50",
+    "sender": "Curtis A Anderson",
+    "message": "How much is VIP again"
+  },
+  {
+    "timestamp": "01:30:16",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:30:23",
+    "sender": "Darryl Ivory",
+    "message": "She can unmute"
+  },
+  {
+    "timestamp": "01:31:20",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:32:29",
+    "sender": "Shannon Williams",
+    "message": "Got my ticket"
+  },
+  {
+    "timestamp": "01:32:39",
+    "sender": "Tenita",
+    "message": "knowledge"
+  },
+  {
+    "timestamp": "01:32:40",
+    "sender": "Bisma Allen",
+    "message": "For now, money"
+  },
+  {
+    "timestamp": "01:32:48",
+    "sender": "Jared Wright",
+    "message": "Good mentorship / Transparency"
+  },
+  {
+    "timestamp": "01:32:48",
+    "sender": "Jennifer Flores",
+    "message": "Knowledge"
+  },
+  {
+    "timestamp": "01:32:48",
+    "sender": "Dionne",
+    "message": "Money"
+  },
+  {
+    "timestamp": "01:32:49",
+    "sender": "Natasha Moore",
+    "message": "Fear, money"
+  },
+  {
+    "timestamp": "01:32:49",
+    "sender": "Andrene Carter",
+    "message": "Knowledge"
+  },
+  {
+    "timestamp": "01:32:52",
+    "sender": "Curtis A Anderson",
+    "message": "Money and knowledge"
+  },
+  {
+    "timestamp": "01:33:02",
+    "sender": "Gisel",
+    "message": "Knowledge and money"
+  },
+  {
+    "timestamp": "01:33:03",
+    "sender": "Joanne Stewart",
+    "message": "Knowledge money no time because of work"
+  },
+  {
+    "timestamp": "01:33:04",
+    "sender": "Terri Rodriguez",
+    "message": "Knowledge n money"
+  },
+  {
+    "timestamp": "01:33:04",
+    "sender": "wisdom",
+    "message": "I just joined and I don't have no idea what this is all about"
+  },
+  {
+    "timestamp": "01:33:05",
+    "sender": "Debra Morris",
+    "message": "I’m 65 want a better and successful life for me and kids I believe in you a lot and want to be better money has been the problem I want to own a home"
+  },
+  {
+    "timestamp": "01:33:20",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:33:24",
+    "sender": "Helena Allen",
+    "message": "Afraid of scammers"
+  },
+  {
+    "timestamp": "01:33:39",
+    "sender": "Jared Wright",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:33:43",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:33:44",
+    "sender": "Dionne",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:33:44",
+    "sender": "Jared Wright",
+    "message": "I have a lifetime mentor"
+  },
+  {
+    "timestamp": "01:33:46",
+    "sender": "Andrene Carter",
+    "message": "Yes 1"
+  },
+  {
+    "timestamp": "01:33:46",
+    "sender": "Debra Morris",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:33:48",
+    "sender": "Jennifer Flores",
+    "message": "Yes"
+  },
+  {
+    "timestamp": "01:33:53",
+    "sender": "Tenita",
+    "message": "yes, but usually very expensive."
+  },
+  {
+    "timestamp": "01:34:04",
+    "sender": "AJ Nelson",
+    "message": "Friends and family mental curses. Trynna break them !"
+  },
+  {
+    "timestamp": "01:34:04",
+    "sender": "Izabel",
+    "message": "I have a question please✋🏼  Do we lose the access to the( Ai notes) and the( tax for 400), after the classes or does it end after the 30 days ?"
+  },
+  {
+    "timestamp": "01:34:51",
+    "sender": "wisdom",
+    "message": "I just joined"
+  },
+  {
+    "timestamp": "01:34:55",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:34:55",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:34:57",
+    "sender": "Curtis A Anderson",
+    "message": "111"
+  },
+  {
+    "timestamp": "01:34:57",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:34:59",
+    "sender": "Gisel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:00",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:01",
+    "sender": "Lisa Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:04",
+    "sender": "iPhone (77)Robin",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:05",
+    "sender": "Tenita",
+    "message": "lol"
+  },
+  {
+    "timestamp": "01:35:05",
+    "sender": "Karine Miller",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:05",
+    "sender": "QUEEN Robinson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:11",
+    "sender": "Natasha Moore",
+    "message": "Lol I said steal what"
+  },
+  {
+    "timestamp": "01:35:13",
+    "sender": "Helena Allen",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:13",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:14",
+    "sender": "Jared Wright",
+    "message": "You can try to break generational curses, or you can commit to breaking them.  You have to make the decision."
+  },
+  {
+    "timestamp": "01:35:15",
+    "sender": "Andrene Carter",
+    "message": "I hate thievery"
+  },
+  {
+    "timestamp": "01:35:16",
+    "sender": "Natasha Moore",
+    "message": "I hate a theif"
+  },
+  {
+    "timestamp": "01:35:25",
+    "sender": "Theresa Martin",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:35:38",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:35:44",
+    "sender": "Debra Morris",
+    "message": "Also I don’t want to loose my home to state because of age I want to learn a trust or put over run number I need to know the know how"
+  },
+  {
+    "timestamp": "01:36:07",
+    "sender": "Jared Wright",
+    "message": "Please"
+  },
+  {
+    "timestamp": "01:36:08",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:36:11",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:36:13",
+    "sender": "Gisel",
+    "message": "I"
+  },
+  {
+    "timestamp": "01:36:14",
+    "sender": "Debra Morris",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:36:14",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:36:15",
+    "sender": "Dionne",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:36:53",
+    "sender": "Google Pixel 7",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:37:53",
+    "sender": "Curtis A Anderson",
+    "message": "To sad"
+  },
+  {
+    "timestamp": "01:39:04",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:06",
+    "sender": "Mary",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:07",
+    "sender": "Tenita",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:07",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:08",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:10",
+    "sender": "AJ Nelson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:11",
+    "sender": "iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:11",
+    "sender": "Lisa Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:11",
+    "sender": "Andrene Carter",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:12",
+    "sender": "iPhone (77)Robin",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:13",
+    "sender": "Helena Allen",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:39:44",
+    "sender": "Andrene Carter",
+    "message": "This is bigger than money👆🏽"
+  },
+  {
+    "timestamp": "01:40:11",
+    "sender": "Belinda Evans",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:40:51",
+    "sender": "AJ Nelson",
+    "message": "Wow !"
+  },
+  {
+    "timestamp": "01:40:57",
+    "sender": "Belinda Evans",
+    "message": "I'm new this"
+  },
+  {
+    "timestamp": "01:41:15",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:42:43",
+    "sender": "Tenita",
+    "message": "confidence"
+  },
+  {
+    "timestamp": "01:42:49",
+    "sender": "Jennifer Flores",
+    "message": "Possibilities"
+  },
+  {
+    "timestamp": "01:42:53",
+    "sender": "Cornelius Gomez",
+    "message": "Mindset"
+  },
+  {
+    "timestamp": "01:42:53",
+    "sender": "Gisel",
+    "message": "If it’s giving me income, it will help me as a single mom so definitely will help me economically"
+  },
+  {
+    "timestamp": "01:42:54",
+    "sender": "Bisma Allen",
+    "message": "Stability"
+  },
+  {
+    "timestamp": "01:42:57",
+    "sender": "Andrene Carter",
+    "message": "Proof that I can do it"
+  },
+  {
+    "timestamp": "01:42:59",
+    "sender": "Lisa Mitchell",
+    "message": "My self esteem, my finances"
+  },
+  {
+    "timestamp": "01:43:03",
+    "sender": "AJ Nelson",
+    "message": "Break the mental chains"
+  },
+  {
+    "timestamp": "01:43:09",
+    "sender": "Curtis A Anderson",
+    "message": "Finally stable"
+  },
+  {
+    "timestamp": "01:43:19",
+    "sender": "Natasha Moore",
+    "message": "Peace of mind, security because I'm losing my home in this bankruptcy 😫"
+  },
+  {
+    "timestamp": "01:43:37",
+    "sender": "Helena Allen",
+    "message": "Confidence that I can step out on faith…"
+  },
+  {
+    "timestamp": "01:44:05",
+    "sender": "Izabel",
+    "message": "65k"
+  },
+  {
+    "timestamp": "01:44:07",
+    "sender": "Gisel",
+    "message": "20,000"
+  },
+  {
+    "timestamp": "01:44:08",
+    "sender": "Tenita",
+    "message": "250K"
+  },
+  {
+    "timestamp": "01:44:09",
+    "sender": "Cornelius Gomez",
+    "message": "25k"
+  },
+  {
+    "timestamp": "01:44:12",
+    "sender": "Jennifer Flores",
+    "message": "50k"
+  },
+  {
+    "timestamp": "01:44:13",
+    "sender": "Hanami",
+    "message": "25K"
+  },
+  {
+    "timestamp": "01:44:28",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:44:32",
+    "sender": "Gisel",
+    "message": "God bless"
+  },
+  {
+    "timestamp": "01:44:56",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:44:58",
+    "sender": "Izabel",
+    "message": "I feel bad that  the lady that took your money"
+  },
+  {
+    "timestamp": "01:45:04",
+    "sender": "Hanami",
+    "message": "I’m not spending 25K on a baby shower even if I did have it 😩"
+  },
+  {
+    "timestamp": "01:45:12",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:45:29",
+    "sender": "Gisel",
+    "message": "Multi family home generating income at least 20,000 a month"
+  },
+  {
+    "timestamp": "01:45:53",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:45:54",
+    "sender": "Tenita",
+    "message": "1111"
+  },
+  {
+    "timestamp": "01:45:57",
+    "sender": "Gisel",
+    "message": "111"
+  },
+  {
+    "timestamp": "01:45:58",
+    "sender": "Cornelius Gomez",
+    "message": "amen"
+  },
+  {
+    "timestamp": "01:45:58",
+    "sender": "Debra Morris",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:45:59",
+    "sender": "Curtis A Anderson",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:45:59",
+    "sender": "Lisa Mitchell",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:46:01",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:46:03",
+    "sender": "Helena Allen",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:46:06",
+    "sender": "Cliff",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:46:08",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:46:20",
+    "sender": "Theresa Martin",
+    "message": "It would bring me to financial freedom stability.   I have 10 children 18 grands and it would teach me how to teach them financial freedom."
+  },
+  {
+    "timestamp": "01:46:37",
+    "sender": "Lisa Mitchell",
+    "message": "but there is too many hurting people so hard to justify expense"
+  },
+  {
+    "timestamp": "01:46:38",
+    "sender": "Dionne",
+    "message": "Want land to build a family compound"
+  },
+  {
+    "timestamp": "01:46:45",
+    "sender": "Curtis A Anderson",
+    "message": "Both or all 3"
+  },
+  {
+    "timestamp": "01:46:48",
+    "sender": "Jennifer Flores",
+    "message": "Financial freedom"
+  },
+  {
+    "timestamp": "01:46:49",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:46:55",
+    "sender": "Debra Morris",
+    "message": "Least few homes in years couple rental and 1 home cash flow"
+  },
+  {
+    "timestamp": "01:47:04",
+    "sender": "Andrene Carter",
+    "message": "Hundreds of acres all developed- a family estate. Plus"
+  },
+  {
+    "timestamp": "01:47:21",
+    "sender": "Andrene Carter",
+    "message": "Plus ministry work"
+  },
+  {
+    "timestamp": "01:47:21",
+    "sender": "Helena Allen",
+    "message": "Financial Freedom …. Ready for Retirement"
+  },
+  {
+    "timestamp": "01:47:32",
+    "sender": "Gisel",
+    "message": "Never too late"
+  },
+  {
+    "timestamp": "01:47:33",
+    "sender": "Belinda Evans",
+    "message": "F and I'll freedom"
+  },
+  {
+    "timestamp": "01:47:34",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:47:35",
+    "sender": "iPhone (77)Robin",
+    "message": "Retirement"
+  },
+  {
+    "timestamp": "01:47:36",
+    "sender": "iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:47:37",
+    "sender": "Izabel",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:47:41",
+    "sender": "iPhone",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:47:42",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:47:42",
+    "sender": "Dionne",
+    "message": "Had no real direction but it is time"
+  },
+  {
+    "timestamp": "01:47:44",
+    "sender": "Travis",
+    "message": "Burnt too many times"
+  },
+  {
+    "timestamp": "01:47:44",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:47:45",
+    "sender": "Belinda Evans",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:47:46",
+    "sender": "Debra Morris",
+    "message": "Finding a great true person time 1"
+  },
+  {
+    "timestamp": "01:47:46",
+    "sender": "Hanami",
+    "message": "Creating BLACK WEALTH"
+  },
+  {
+    "timestamp": "01:47:52",
+    "sender": "QUEEN Robinson",
+    "message": "Tired of being on Public Aid"
+  },
+  {
+    "timestamp": "01:47:52",
+    "sender": "Jared Wright",
+    "message": "Because AI is about to do it if we don’t."
+  },
+  {
+    "timestamp": "01:47:59",
+    "sender": "Andrene Carter",
+    "message": "Too much happening in our world- I’m not getting younger"
+  },
+  {
+    "timestamp": "01:48:04",
+    "sender": "Curtis A Anderson",
+    "message": "God's grace and mercy time to help"
+  },
+  {
+    "timestamp": "01:48:08",
+    "sender": "Helena Allen",
+    "message": "Stepping out of comfort zone"
+  },
+  {
+    "timestamp": "01:48:10",
+    "sender": "AJ Nelson",
+    "message": "Tomorrow is not promised. Now or never !!"
+  },
+  {
+    "timestamp": "01:48:14",
+    "sender": "Natasha Moore",
+    "message": "Breath"
+  },
+  {
+    "timestamp": "01:48:18",
+    "sender": "Joanne Stewart",
+    "message": "Free and stress free"
+  },
+  {
+    "timestamp": "01:48:31",
+    "sender": "Karine Miller",
+    "message": "Fix and flip"
+  },
+  {
+    "timestamp": "01:48:31",
+    "sender": "Jennifer Flores",
+    "message": "Buy more properties"
+  },
+  {
+    "timestamp": "01:48:39",
+    "sender": "Dionne",
+    "message": "Learn a way for the property to make money"
+  },
+  {
+    "timestamp": "01:48:41",
+    "sender": "iPhone",
+    "message": "Do not put n"
+  },
+  {
+    "timestamp": "01:48:41",
+    "sender": "Hanami",
+    "message": "Keep it… rent it out…options"
+  },
+  {
+    "timestamp": "01:48:43",
+    "sender": "Cornelius Gomez",
+    "message": "Invest in other properties"
+  },
+  {
+    "timestamp": "01:48:45",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:48:48",
+    "sender": "Curtis A Anderson",
+    "message": "Feel relieved and relaxed"
+  },
+  {
+    "timestamp": "01:48:57",
+    "sender": "Gisel",
+    "message": "When you buy in the auction, how long it takes to get the deed??"
+  },
+  {
+    "timestamp": "01:49:03",
+    "sender": "Natasha Moore",
+    "message": "Absolutely"
+  },
+  {
+    "timestamp": "01:49:09",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:49:16",
+    "sender": "Andrene Carter",
+    "message": "Too much that’s on my mind"
+  },
+  {
+    "timestamp": "01:49:19",
+    "sender": "Debra Morris",
+    "message": "“Yes"
+  },
+  {
+    "timestamp": "01:49:25",
+    "sender": "Hanami",
+    "message": "Adulting is ghetto"
+  },
+  {
+    "timestamp": "01:49:27",
+    "sender": "Lisa Mitchell",
+    "message": "My employer stated I am as high as it goes for pay. That I will no longer get a raise not unless I change job or get promotion. Inflation reminded me I am not making what I want."
+  },
+  {
+    "timestamp": "01:49:27",
+    "sender": "Gisel",
+    "message": "Yes, I live pay check to pay check."
+  },
+  {
+    "timestamp": "01:49:27",
+    "sender": "Theresa Martin",
+    "message": "Im getting older.   I need to move now.\nI didnt.   I was afraid to move forwad with out, a mentor."
+  },
+  {
+    "timestamp": "01:49:39",
+    "sender": "G7 Mitchell",
+    "message": "Yup, gone before I even get it $"
+  },
+  {
+    "timestamp": "01:50:00",
+    "sender": "Gisel",
+    "message": "less stress , freedom"
+  },
+  {
+    "timestamp": "01:50:06",
+    "sender": "Natasha Moore",
+    "message": "Be stable"
+  },
+  {
+    "timestamp": "01:50:20",
+    "sender": "Curtis A Anderson",
+    "message": "Help other people"
+  },
+  {
+    "timestamp": "01:50:25",
+    "sender": "Lisa Mitchell",
+    "message": "Buy next tax deed!"
+  },
+  {
+    "timestamp": "01:50:26",
+    "sender": "Debra Morris",
+    "message": "Build business"
+  },
+  {
+    "timestamp": "01:50:28",
+    "sender": "G7 Mitchell",
+    "message": "Be able to breathe!"
+  },
+  {
+    "timestamp": "01:50:29",
+    "sender": "AJ Nelson",
+    "message": "Rent it out for passive income"
+  },
+  {
+    "timestamp": "01:50:29",
+    "sender": "Cornelius Gomez",
+    "message": "Rent it out for monthly income"
+  },
+  {
+    "timestamp": "01:50:31",
+    "sender": "Valarie Davis",
+    "message": "Would like to own a home and a business"
+  },
+  {
+    "timestamp": "01:50:47",
+    "sender": "Andrene Carter",
+    "message": "When these problems are gone, I would setup all the family to be taught how to move it forward"
+  },
+  {
+    "timestamp": "01:50:48",
+    "sender": "Gisel",
+    "message": "When you buy in the auction, how long it takes to get the deed??\n*"
+  },
+  {
+    "timestamp": "01:51:11",
+    "sender": "Helena Allen",
+    "message": "Retire"
+  },
+  {
+    "timestamp": "01:51:21",
+    "sender": "iPhone (77)Robin",
+    "message": "Retire"
+  },
+  {
+    "timestamp": "01:51:27",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:51:33",
+    "sender": "Curtis A Anderson",
+    "message": "Get off disability and make my own life better"
+  },
+  {
+    "timestamp": "01:51:37",
+    "sender": "Joanne Stewart",
+    "message": "Be there for my kids"
+  },
+  {
+    "timestamp": "01:51:43",
+    "sender": "Karine Miller",
+    "message": "Oh lord quit my job with financial freedom"
+  },
+  {
+    "timestamp": "01:51:49",
+    "sender": "Jared Wright",
+    "message": "Freedom is better than Retirement"
+  },
+  {
+    "timestamp": "01:51:56",
+    "sender": "G7 Mitchell",
+    "message": "Fix things around here. Just had a flood, contractor left it half finished!"
+  },
+  {
+    "timestamp": "01:51:58",
+    "sender": "Gisel",
+    "message": "My kids"
+  },
+  {
+    "timestamp": "01:51:58",
+    "sender": "Lisa Mitchell",
+    "message": "Leave generational wealth"
+  },
+  {
+    "timestamp": "01:52:00",
+    "sender": "Nkechi Adinkwuye Harris",
+    "message": "My kids"
+  },
+  {
+    "timestamp": "01:52:08",
+    "sender": "iPhone (77)Robin",
+    "message": "Kids and grandchildren"
+  },
+  {
+    "timestamp": "01:52:08",
+    "sender": "Dionne",
+    "message": "My family kids and grandkids"
+  },
+  {
+    "timestamp": "01:52:09",
+    "sender": "Cornelius Gomez",
+    "message": "My family"
+  },
+  {
+    "timestamp": "01:52:10",
+    "sender": "Lisa Mitchell",
+    "message": "Kids, grandkids"
+  },
+  {
+    "timestamp": "01:52:11",
+    "sender": "AJ Nelson",
+    "message": "Buy a boat, travel the world and buy real estate internationally"
+  },
+  {
+    "timestamp": "01:52:15",
+    "sender": "Debra Morris",
+    "message": "Kids"
+  },
+  {
+    "timestamp": "01:52:17",
+    "sender": "Belinda Evans",
+    "message": "Family"
+  },
+  {
+    "timestamp": "01:52:17",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:52:19",
+    "sender": "Jennifer Flores",
+    "message": "Leave a legacy"
+  },
+  {
+    "timestamp": "01:52:21",
+    "sender": "Lisa Mitchell",
+    "message": "I’m already in"
+  },
+  {
+    "timestamp": "01:52:35",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:52:57",
+    "sender": "Andrene Carter",
+    "message": "Build passive income- \nEach of my family would have to develop in finance, and up their game in every area of life and give back"
+  },
+  {
+    "timestamp": "01:52:59",
+    "sender": "Helena Allen",
+    "message": "Better care for my mom who has dementia and setting my child up."
+  },
+  {
+    "timestamp": "01:53:01",
+    "sender": "Theresa Martin",
+    "message": "I would teach my children and others finanail freedom."
+  },
+  {
+    "timestamp": "01:53:17",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:53:47",
+    "sender": "Gisel",
+    "message": "When you buy in the auction, how long it takes to get the deed??\n*"
+  },
+  {
+    "timestamp": "01:53:48",
+    "sender": "Cornelius Gomez",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:53:49",
+    "sender": "Natasha Moore",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:53:50",
+    "sender": "iPhone",
+    "message": "11"
+  },
+  {
+    "timestamp": "01:53:53",
+    "sender": "Jennifer Flores",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:53:54",
+    "sender": "Valarie Davis",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:53:59",
+    "sender": "Natasha Moore",
+    "message": "Can I switch my ticket"
+  },
+  {
+    "timestamp": "01:54:07",
+    "sender": "Renee",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:54:09",
+    "sender": "Andrene Carter",
+    "message": "I will be able to buy on payday this Friday"
+  },
+  {
+    "timestamp": "01:54:27",
+    "sender": "Gisel",
+    "message": "When you buy in the auction, how long it takes to get the deed??"
+  },
+  {
+    "timestamp": "01:54:35",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:54:51",
+    "sender": "Natasha Moore",
+    "message": "1"
+  },
+  {
+    "timestamp": "01:54:52",
+    "sender": "iPhone (77)Robin",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:54:53",
+    "sender": "iPhone",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:54:56",
+    "sender": "G7 Mitchell",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:54:57",
+    "sender": "AJ Nelson",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:54:59",
+    "sender": "Gisel",
+    "message": "100"
+  },
+  {
+    "timestamp": "01:55:00",
+    "sender": "Ricardo Wright",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:00",
+    "sender": "Debra Morris",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:01",
+    "sender": "Lisa Mitchell",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:02",
+    "sender": "Cornelius Gomez",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:04",
+    "sender": "Helena Allen",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:04",
+    "sender": "Theresa Martin",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:05",
+    "sender": "Renee",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:05",
+    "sender": "Valarie Davis",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:07",
+    "sender": "Andrene Carter",
+    "message": "100"
+  },
+  {
+    "timestamp": "01:55:09",
+    "sender": "Jennifer Flores",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:12",
+    "sender": "Curtis A Anderson",
+    "message": "Very important"
+  },
+  {
+    "timestamp": "01:55:12",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:55:17",
+    "sender": "Valarie Davis",
+    "message": "10"
+  },
+  {
+    "timestamp": "01:55:46",
+    "sender": "Valarie Davis",
+    "message": "Everything"
+  },
+  {
+    "timestamp": "01:55:48",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:55:52",
+    "sender": "G7 Mitchell",
+    "message": "More $"
+  },
+  {
+    "timestamp": "01:55:55",
+    "sender": "AJ Nelson",
+    "message": "Possibly everything"
+  },
+  {
+    "timestamp": "01:55:58",
+    "sender": "Debra Morris",
+    "message": "Very important I suppose to hopefully get money next week"
+  },
+  {
+    "timestamp": "01:56:53",
+    "sender": "Belinda Evans",
+    "message": "New to zoom3"
+  },
+  {
+    "timestamp": "01:57:09",
+    "sender": "Iknowrealty",
+    "message": "https://chat.whatsapp.com/BWTdis7EHxWCgHkvV7DqZ7?s=cl&p=i&ilr=0&amv=2"
+  },
+  {
+    "timestamp": "01:57:52",
+    "sender": "Natasha Moore",
+    "message": "I joined there no one there"
+  },
+  {
+    "timestamp": "01:58:06",
+    "sender": "Natasha Moore",
+    "message": "In the what's app"
+  },
+  {
+    "timestamp": "01:58:10",
+    "sender": "Jared Wright",
+    "message": "The class is next week"
+  },
+  {
+    "timestamp": "01:58:16",
+    "sender": "Theresa Martin",
+    "message": "I was trying to get the $67.00 ticket but ir comes out to be $141.00.   Please say exactly the price so I can be prepared.  I dont have the 141 now."
+  },
+  {
+    "timestamp": "01:58:28",
+    "sender": "Gisel",
+    "message": "Are we able go learn to buy deals online?"
+  },
+  {
+    "timestamp": "01:58:29",
+    "sender": "Natasha Moore",
+    "message": "Yes it was blank"
+  },
+  {
+    "timestamp": "01:58:51",
+    "sender": "Roberta Scott",
+    "message": "Can we bring a friend?"
+  },
+  {
+    "timestamp": "01:59:11",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "01:59:15",
+    "sender": "Gisel",
+    "message": "You can buys deals during the class?"
+  },
+  {
+    "timestamp": "02:00:00",
+    "sender": "G7 Mitchell",
+    "message": "No, $67 plus AI, plus book equals 141"
+  },
+  {
+    "timestamp": "02:00:04",
+    "sender": "Ricardo Wright",
+    "message": "What are the AI notes"
+  },
+  {
+    "timestamp": "02:00:04",
+    "sender": "Gisel",
+    "message": "What’s the AI notes?"
+  },
+  {
+    "timestamp": "02:00:36",
+    "sender": "Jared Wright",
+    "message": "Let’s schedule time connect when you have time, Darryl has my info."
+  },
+  {
+    "timestamp": "02:00:43",
+    "sender": "Darryl Ivory",
+    "message": "🔥 Join Our 5-Day Masterclass on Tax Deed Sales!\nJoin us from June 22nd–26th (6:00 PM - 7:30 PM). Guy will show you exactly how tax sales work and how everyday people turn small deals into massive profits.\n\n🎟️ Secure Your Spot\n5-Day Access + Replay:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/gxXzk\n\nPlatinum VIP Pass:\nhttps://www.fanbasis.com/agency-checkout/taxsaleguy/lv6nj"
+  },
+  {
+    "timestamp": "02:00:44",
+    "sender": "Shannon Williams",
+    "message": "Do we get notifications for the next class?"
   }
 ]

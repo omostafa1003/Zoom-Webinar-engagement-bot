@@ -10,9 +10,29 @@ function timeOffsetToSeconds(timeStr) {
   return parseInt(trimmed, 10) || 0;
 }
 
+function parseAbsoluteTimestamp(timeStr) {
+  const trimmed = (timeStr || '').toString().trim();
+  if (!trimmed) return null;
+  const parsed = Date.parse(trimmed);
+  return Number.isNaN(parsed) ? null : new Date(parsed);
+}
+
+function getZeroTimeMark() {
+  const filePath = path.join(__dirname, 'zero-time-mark.txt');
+  if (!fs.existsSync(filePath)) return null;
+  const content = fs.readFileSync(filePath, 'utf8').trim();
+  const parsed = parseAbsoluteTimestamp(content);
+  if (!parsed) {
+    console.warn('Invalid zero time mark in zero-time-mark.txt:', content);
+    return null;
+  }
+  return parsed;
+}
+
 function parseJSONMessages() {
   const filePath = path.join(__dirname, 'chat-schedule.json');
   if (!fs.existsSync(filePath)) return [];
+  const zeroTime = getZeroTimeMark();
   let content = fs.readFileSync(filePath, 'utf8');
   if (content.charCodeAt(0) === 0xFEFF) content = content.slice(1);
   let data;
@@ -27,13 +47,22 @@ function parseJSONMessages() {
     const timestamp = item.timestamp || item.timeoffset || item.offset || '';
     const sender = (item.sender || item['sender name'] || item['senderName'] || '').toString().trim();
     const message = (item.message || item.msg || item.text || '').toString().trim();
+    const absoluteTime = parseAbsoluteTimestamp(timestamp);
+    const offsetSeconds = absoluteTime && zeroTime ? Math.round((absoluteTime - zeroTime) / 1000) : timeOffsetToSeconds(timestamp);
+    const scheduledTime = absoluteTime || (zeroTime ? new Date(zeroTime.getTime() + offsetSeconds * 1000) : null);
     return {
       timeoffset: timestamp,
       sender,
       message,
-      offsetSeconds: timeOffsetToSeconds(timestamp)
+      absoluteTime,
+      offsetSeconds,
+      scheduledTime
     };
-  }).sort((a, b) => a.offsetSeconds - b.offsetSeconds);
+  }).sort((a, b) => {
+    const aTime = a.scheduledTime ? a.scheduledTime.getTime() : 0;
+    const bTime = b.scheduledTime ? b.scheduledTime.getTime() : 0;
+    return aTime - bTime;
+  });
 }
 
 function parseCSV() {
@@ -50,7 +79,12 @@ function parseCSV() {
     headers.forEach((h,i) => rec[h] = (cells[i]||'').trim());
     return rec;
   });
-  return records.sort((a,b)=> timeOffsetToSeconds(a.timeoffset||a.offset||'0') - timeOffsetToSeconds(b.timeoffset||b.offset||'0'));
+  return records
+    .map(rec => ({
+      ...rec,
+      offsetSeconds: timeOffsetToSeconds(rec.timeoffset || rec.offset || '0')
+    }))
+    .sort((a, b) => a.offsetSeconds - b.offsetSeconds);
 }
 
 async function getWebSdkFrame(page, timeout = 15000) {
@@ -210,23 +244,30 @@ async function renameCurrentUser(page, name, timeout = 30000) {
     meItem.dispatchEvent(new MouseEvent('mouseover', { bubbles: true }));
     await sleep(300);
 
-    const moreBtn = meItem.querySelector('button[title="More"], button[aria-label*="More"], button[id*="dropdown"], button.btn.dropdown-toggle, .dropdown-toggle')
-      || Array.from(meItem.querySelectorAll('button, div, span')).find(el => /more/i.test((el.textContent || '').trim()) && visible(el));
-    if (!moreBtn) {
-      return { ok: false, reason: 'More button not found' };
+    const directRenameBtn = Array.from(meItem.querySelectorAll('button'))
+      .find(el => visible(el) && /rename/i.test((el.textContent || '').trim()));
+    if (directRenameBtn) {
+      clickElement(directRenameBtn);
+      await sleep(500);
+    } else {
+      const moreBtn = meItem.querySelector('button[title="More"], button[aria-label*="More"], button[id*="dropdown"], button.btn.dropdown-toggle, .dropdown-toggle')
+        || Array.from(meItem.querySelectorAll('button, div, span')).find(el => /more/i.test((el.textContent || '').trim()) && visible(el));
+      if (!moreBtn) {
+        return { ok: false, reason: 'More button not found' };
+      }
+
+      clickElement(moreBtn);
+      await sleep(500);
+
+      const renameBtn = Array.from(document.querySelectorAll('button, div'))
+        .find(el => (el.textContent || '').trim() === 'Rename');
+      if (!renameBtn) {
+        return { ok: false, reason: 'Rename option not found' };
+      }
+
+      clickElement(renameBtn);
+      await sleep(500);
     }
-
-    clickElement(moreBtn);
-    await sleep(500);
-
-    const renameBtn = Array.from(document.querySelectorAll('button, div'))
-      .find(el => (el.textContent || '').trim() === 'Rename');
-    if (!renameBtn) {
-      return { ok: false, reason: 'Rename option not found' };
-    }
-
-    clickElement(renameBtn);
-    await sleep(500);
 
     const input = document.querySelector('#newname') || document.querySelector('input[name="newname"]') || Array.from(document.querySelectorAll('input')).find(el => (el.placeholder || '').toLowerCase().includes('name'));
     if (!input) {
@@ -283,7 +324,28 @@ async function sendMessage(page, msg) {
     try { await el.focus(); } catch(e){ await frame.evaluate(sel=>{ const e=document.querySelector(sel); if(e) e.focus(); }, selector); }
     const modifier = process.platform === 'darwin' ? 'Meta' : 'Control';
     await page.keyboard.down(modifier); await page.keyboard.press('KeyA'); await page.keyboard.up(modifier); await page.keyboard.press('Backspace');
-    try { await el.type(msg, {delay:40}); } catch(e) { await page.keyboard.type(msg,{delay:40}); }
+    
+    // Set text using native setter to preserve newlines
+    try {
+      await frame.evaluate((sel, text) => {
+        const el = document.querySelector(sel);
+        if (!el) return false;
+        if (el.tagName === 'TEXTAREA' || el.tagName === 'INPUT') {
+          const nativeSetter = Object.getOwnPropertyDescriptor(window.HTMLTextAreaElement.prototype || window.HTMLInputElement.prototype, 'value').set;
+          nativeSetter.call(el, text);
+          el.dispatchEvent(new Event('input', { bubbles: true }));
+          el.dispatchEvent(new Event('change', { bubbles: true }));
+        } else if (el.contentEditable === 'true') {
+          el.textContent = text;
+          el.dispatchEvent(new Event('input', { bubbles: true }));
+          el.dispatchEvent(new Event('change', { bubbles: true }));
+        }
+        return true;
+      }, selector, msg);
+    } catch(e) {
+      try { await el.type(msg, {delay:40}); } catch(e2) { await page.keyboard.type(msg,{delay:40}); }
+    }
+    
     await new Promise(r=>setTimeout(r,200));
     const sendSel = await (async ()=>{
       const sendCandidates = ['button.chat-rtf-box__send','button[aria-label="Send"]','button[data-testid="send"]','button[type="submit"]'];
@@ -319,23 +381,43 @@ async function sendMessage(page, msg) {
   }
   if (!messages.length) { console.error('No messages found in chat-schedule.json or archive/messagelist.csv'); await browser.disconnect(); process.exit(1); }
 
+  const zeroTime = getZeroTimeMark();
+  console.log('Current time:', new Date().toISOString());
+  console.log('Zero time mark:', zeroTime ? zeroTime.toISOString() : 'none');
+
   const participantReady = await ensureParticipantPanelOpen(page);
   if (!participantReady) {
     console.warn('Could not open the participants panel before starting. Continuing anyway.');
   }
 
   const startMs = Date.now();
+  let entryPointFound = false;
   for (const row of messages) {
-    const offset = timeOffsetToSeconds(row.timeoffset || row.offset || '0');
     const sender = (row['sender name'] || row['sender'] || row['sendername'] || '').trim();
     const message = (row.message || row.msg || row.text || '').trim();
-    const scheduledAt = startMs + offset * 1000;
-    const delay = scheduledAt - Date.now();
+    const scheduledAt = row.scheduledTime || (typeof row.offsetSeconds === 'number' ? (zeroTime ? new Date(zeroTime.getTime() + row.offsetSeconds * 1000) : new Date(startMs + row.offsetSeconds * 1000)) : null);
+    if (!scheduledAt) {
+      console.warn('Skipping message with invalid schedule:', row.timeoffset, message.slice(0,60));
+      continue;
+    }
+    
+    // Skip past messages only until entry point is found
+    if (!entryPointFound && scheduledAt.getTime() < Date.now()) {
+      console.log('⏭  Skipping past message scheduled for', scheduledAt.toISOString(), ':', sender, message.slice(0,60));
+      continue;
+    }
+    
+    if (!entryPointFound) {
+      console.log('▶  FIRST MESSAGE TO SEND (entry point):', scheduledAt.toISOString(), '—', sender, message.slice(0,60));
+      entryPointFound = true;
+    }
+    
+    const delay = scheduledAt.getTime() - Date.now();
     if (delay > 0) {
-      console.log('Scheduling in', Math.round(delay/1000), 's:', sender, message.slice(0,60));
+      console.log('Scheduling at', scheduledAt.toISOString(), 'in', Math.round(delay/1000), 's:', sender, message.slice(0,60));
       await sleep(delay);
-    } else if (delay < 0) {
-      console.log('Running late by', Math.round(-delay/1000), 's for message:', sender, message.slice(0,60));
+    } else {
+      console.log('Sending immediately (scheduled for', scheduledAt.toISOString(), '):', sender, message.slice(0,60));
     }
 
     if (sender) {

@@ -117,23 +117,30 @@ async function renameCurrentUser(page, name, timeout = 30000) {
     meItem.dispatchEvent(new MouseEvent('mouseover', { bubbles: true }));
     await sleep(300);
 
-    const moreBtn = meItem.querySelector('button[title="More"], button[aria-label*="More"], button[id*="dropdown"], button.btn.dropdown-toggle, .dropdown-toggle')
-      || Array.from(meItem.querySelectorAll('button, div, span')).find(el => /more/i.test((el.textContent || '').trim()) && visible(el));
-    if (!moreBtn) {
-      return { ok: false, reason: 'More button not found' };
+    const directRenameBtn = Array.from(meItem.querySelectorAll('button'))
+      .find(el => visible(el) && /rename/i.test((el.textContent || '').trim()));
+    if (directRenameBtn) {
+      clickElement(directRenameBtn);
+      await sleep(500);
+    } else {
+      const moreBtn = meItem.querySelector('button[title="More"], button[aria-label*="More"], button[id*="dropdown"], button.btn.dropdown-toggle, .dropdown-toggle')
+        || Array.from(meItem.querySelectorAll('button, div, span')).find(el => /more/i.test((el.textContent || '').trim()) && visible(el));
+      if (!moreBtn) {
+        return { ok: false, reason: 'More button not found' };
+      }
+
+      clickElement(moreBtn);
+      await sleep(500);
+
+      const renameBtn = Array.from(document.querySelectorAll('button, div'))
+        .find(el => (el.textContent || '').trim() === 'Rename');
+      if (!renameBtn) {
+        return { ok: false, reason: 'Rename option not found' };
+      }
+
+      clickElement(renameBtn);
+      await sleep(500);
     }
-
-    clickElement(moreBtn);
-    await sleep(500);
-
-    const renameBtn = Array.from(document.querySelectorAll('button, div'))
-      .find(el => (el.textContent || '').trim() === 'Rename');
-    if (!renameBtn) {
-      return { ok: false, reason: 'Rename option not found' };
-    }
-
-    clickElement(renameBtn);
-    await sleep(500);
 
     const input = document.querySelector('#newname') || document.querySelector('input[name="newname"]') || Array.from(document.querySelectorAll('input')).find(el => (el.placeholder || '').toLowerCase().includes('name'));
     if (!input) {
